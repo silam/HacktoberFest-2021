@@ -1,5 +1,11 @@
 ## Contributors Details
 
+
+Name: [Si Lam](https://github.com/silam) <br/>
+Place: USA <br/>
+About: Full stack developer <br/>
+
+
 Name: [Tej Grover](https://github.com/tejgrover) <br/>
 Place: India <br/>
 About: newbie developer <br/>
